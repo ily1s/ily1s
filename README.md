@@ -1,24 +1,8 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**ily1s/ily1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <!-- 👋 HEADER SECTION -->
 <h1 align="center">Hi 👋, I'm Ilyass Outassla</h1>
-<h3 align="center">🚀 Data Engineer | ☁️ Cloud Enthusiast | 🧠 AI Explorer</h3>
+<h3 align="center">🚀 Data Engineer | ☁️ Cloud & Big Data Enthusiast | 🧠 AI Explorer</h3>
+
+---
 
 <!-- 💻 TOP SKILLS WITH ICONS -->
 <p align="center">
@@ -28,83 +12,57 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ---
 
 ## 🧠 About Me  
-Passionate about **Data Engineering**, **Big Data**, and **Cloud Computing (AWS)**.  
-I love building data pipelines, automating workflows, and creating data-driven solutions.  
-<!-- Currently preparing for the **AWS Certified Data Engineer – Associate** exam.  -->
-
-🔍 Seeking: Final-year internship (PFE) in **Data Engineering**, **Big Data**, or **Data Analysis**  
-🌍 Based in: Marrakech, Morocco  
-💬 Languages: Tamazight, Arabic, English, French (TCF B2 Certified)
+🎓 Computer Science Engineering Student at **ENSA Marrakech**  
+💡 Passionate about **Data Engineering**, **Big Data Pipelines**, and **Cloud Solutions**  
+⚙️ Skilled in building **ETL systems**, **real-time data processing**, and **analytics dashboards**  
+🎯 Preparing for **AWS Certified Data Engineer – Associate**  
+📍 Based in **Marrakech, Morocco**
 
 ---
 
-## 💼 Experience & Projects  
+## ⚙️ Technical Skills  
 
-### 🏢 **Stage PFA – Plateforme ODD (Objectifs de Développement Durable)**  
-📅 July 2025 – September 2025 | **Université Cadi Ayyad, Marrakech**  
-- Built a web application for managing and tracking SDG-related actions.  
-- Designed an ETL pipeline to collect and load Excel data into PostgreSQL.  
-- Developed dynamic React forms connected to a Django REST API.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools%20&%20Platforms-000000?style=for-the-badge&logoColor=white"/>
+</p>
 
-🛠️ **Tech Stack:** Django, React, PostgreSQL, Pandas, REST API  
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-000000?style=for-the-badge&logoColor=white"/>
+</p>
 
-### 🤖 **UniSphere – AI-Powered Academic Ecosystem**  
-📅 April 2025 – June 2025 | **ENSA Marrakech**  
-- Built a scalable ETL pipeline with **Playwright**, **BeautifulSoup**, and **AWS S3**.  
-- Automated data collection and transformation from multiple academic sources.  
-- Designed backend with **FastAPI** and containerized using **Docker**.  
-
-🛠️ **Tech Stack:** FastAPI, Docker, AWS S3, Playwright, Pandas, SpringBoot  
-
----
-
-### 🏆 **BoTs – L’IA à l’Écoute de l’Afrique**  
-📅 April 2025 | **Finalist – GITEX Africa 2025 (AI4SDG11 Challenge)**  
-- Built a real-time BERT-based detection system for event monitoring.  
-- Achieved more than **95% accuracy** on real-world datasets.  
-
-🛠️ **Tech Stack:** Python, BERT, Pandas, NLP  
-
----
-
-## 🧰 Technical Skills  
-
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| **Languages** | 🐍 Python · 🧮 SQL · ☕ Java · 🐚 Shell |
-| **Frameworks** | Django · Flask · FastAPI |
-| **Data Engineering** | ETL · Kafka · Airflow · Web Scraping |
-| **Cloud & DevOps** | AWS · Docker |
-| **Databases** | MySQL · PostgreSQL |
-| **Data & AI** | Pandas · NumPy · Tableau · RAG · Recommender Systems |
-| **Version Control** | Git · GitHub |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+</p>
 
 ---
 
-## 🎓 Education  
+## 📊 GitHub Activity & Contributions  
 
-**École Nationale des Sciences Appliquées (ENSA) – Marrakech**  
-📅 2021 – Present  
-🎯 Engineering Degree in Computer Science (Software & Data Engineering Track)
-
----
-
-## 🏅 Certifications  
-
-- 🧩 **AWS Certified Data Engineer – Associate** *(in progress)*  
-- ☁️ [AWS Cloud Quest: Cloud Practitioner – AWS](https://www.credly.com/badges/6e0ae65b-72b0-4b9e-815e-547904fc6da6/public_url)  
-- 🎓 [IBM Data Engineering Professional Certificate – Coursera](https://coursera.org/verify/professional-cert/RE2ESGSG984O)  
-- 🇫🇷 TCF (Test de Connaissance du Français) – Level B2 *(Sept 2025)*  
-
----
-## 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ily1s&theme=tokyo-night&hide_border=true&area=true" alt="Ilyass's GitHub Activity Graph"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ily1s&show_icons=true&theme=tokyonight" height="165"/>
@@ -130,4 +88,3 @@ I love building data pipelines, automating workflows, and creating data-driven s
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ily1s&label=Profile%20Views&color=blue&style=flat-square" alt="profile views"/>
 </p>
-
