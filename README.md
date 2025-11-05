@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 **Tools:** Airflow, Docker, Git, Tableau  
 
 ## 📊 GitHub Stats  
-![Ilyass's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyassoutassla&show_icons=true&theme=tokyonight)
+![Ilyass's GitHub stats](https://github-readme-stats.vercel.app/api?username=ily1s&show_icons=true&theme=tokyonight)
 
 ## 🏆 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyassoutassla&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ily1s&layout=compact&theme=tokyonight)
 
 ## 📫 Connect with Me  
