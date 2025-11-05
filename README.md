@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## 🧠 About Me  
 Passionate about **Data Engineering**, **Big Data**, and **Cloud Computing (AWS)**.  
 I love building data pipelines, automating workflows, and creating data-driven solutions.  
-Currently preparing for the **AWS Certified Data Engineer – Associate** exam.  
+<!-- Currently preparing for the **AWS Certified Data Engineer – Associate** exam.  -->
 
 🔍 Seeking: Final-year internship (PFE) in **Data Engineering**, **Big Data**, or **Data Analysis**  
 🌍 Based in: Marrakech, Morocco  
