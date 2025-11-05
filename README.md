@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Hi, I'm Ilyass Outassla  
-🚀 Data Engineer | Cloud Enthusiast | Machine Learning Learner  
+Data Engineer | Cloud Enthusiast | Machine Learning Learner  
 
 ## 🧠 About Me  
-- 🔭 I’m currently working on **Real-Time Data Pipelines using Kafka & Spark**  
-- 🌱 Learning **AWS & Big Data Engineering**  
-- 💡 Interested in **ETL, Data Warehousing, and Cloud Solutions**  
+- I’m currently working on **Data Engineering** projects
+- Learning **AWS & Big Data Engineering**  
+- Interested in **ETL, Data Warehousing, and Cloud Solutions**  
 
 ## 🛠️ Tech Stack  
 **Languages:** Python, SQL, Java  
-**Data:** MySQL, PostgreSQL, Redshift, Spark  
-**Cloud:** AWS (S3, Glue, Lambda, Redshift)  
+**Data:** MySQL, PostgreSQL, Spark  
+**Cloud:** AWS 
 **Tools:** Airflow, Docker, Git, Tableau  
 
 ## 📊 GitHub Stats  
