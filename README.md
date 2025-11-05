@@ -61,8 +61,7 @@
 ## 📊 GitHub Activity & Contributions  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ily1s&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&custom_title=Activity%20(last%203%20months)
-" alt="Ilyass's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ily1s&theme=tokyo-night&hide_border=true&area=true" alt="Ilyass's GitHub Activity Graph"/>
 </p>
 
 <p align="center">
