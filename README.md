@@ -23,9 +23,9 @@ Data Engineer | Cloud Enthusiast | Machine Learning Learner
 - Interested in **ETL, Data Warehousing, and Cloud Solutions**  
 
 ## 🛠️ Tech Stack  
-**Languages:** Python, SQL, Java  
+**Languages:** ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54), SQL, Java  
 **Data:** MySQL, PostgreSQL, Spark  
-**Cloud:** AWS 
+**Cloud:** AWS
 **Tools:** Airflow, Docker, Git, Tableau  
 
 ## 📊 GitHub Stats  
