@@ -23,8 +23,6 @@
 🎓 Computer Science Engineering Student at **ENSA Marrakech**  
 💡 Passionate about **Data Engineering**, **Big Data Pipelines**, and **Cloud Solutions**  
 ⚙️ Skilled in building **ETL systems**, **real-time data processing**, and **analytics dashboards**  
-🎯 Preparing for **AWS Certified Data Engineer – Associate**  
-📍 Based in **Marrakech, Morocco**
 
 ---
 
